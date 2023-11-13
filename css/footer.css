@@ -1,0 +1,23 @@
+.footer {
+  padding: 40px 0;
+}
+.footer__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.contacts__links {
+  max-width: 345px;
+  display: flex;
+  column-gap: 60px;
+  margin-bottom: 44px;
+}
+.contacts__link img{
+  max-width: 100%;
+}
+.footer__text {
+  text-align-last: center;
+  font-family: 'Gilroy-Medium';
+  color: #828282;
+}
